@@ -1,9 +1,9 @@
 {
     "name": "bendar/lorem-ipsum-bundle",
-    "description": "Happy Lorem ipsum",
+    "description": "Happy Lorem Ipsum",
     "type": "symfony-bundle",
     "license": "MIT",
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "version": "1.0.0",
     "authors": [
         {
