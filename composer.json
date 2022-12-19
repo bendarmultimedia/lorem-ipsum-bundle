@@ -3,6 +3,7 @@
     "description": "Happy Lorem ipsum",
     "type": "symfony-bundle",
     "license": "MIT",
+    "minimum-stability": "stable",
     "authors": [
         {
             "name": "Patryk Cieslak",
