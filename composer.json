@@ -1,5 +1,5 @@
 {
-    "name": "mp/lorem-ipsum-bundle",
+    "name": "bendar/lorem-ipsum-bundle",
     "description": "Happy Lorem ipsum",
     "type": "symfony-bundle",
     "license": "MIT",
